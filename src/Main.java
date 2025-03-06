@@ -32,7 +32,8 @@ public class Main {
         System.out.println("Number of items sold: "+product);
         System.out.println("Price of the product excluding the tax"+Net);
         System.out.println("Total price including the tax: "+Total);
-       
+
+        System.out.println("My conclusion is that when we use Big Decimal we are able to avoid precision error");
 
 
 
