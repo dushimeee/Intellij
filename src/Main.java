@@ -2,7 +2,7 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 
 public class Main {
-    private static Object Total;
+
 
     public static void main(String[] args) {
 
